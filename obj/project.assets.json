@@ -5971,11 +5971,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ifernandez\\source\\repos\\WebapiStarWars\\WebapiMaestros.csproj",
+      "projectUniqueName": "C:\\Users\\ifernandez\\source\\repos\\WebapiStarWars2\\WebapiMaestros.csproj",
       "projectName": "WebapiMaestros",
-      "projectPath": "C:\\Users\\ifernandez\\source\\repos\\WebapiStarWars\\WebapiMaestros.csproj",
+      "projectPath": "C:\\Users\\ifernandez\\source\\repos\\WebapiStarWars2\\WebapiMaestros.csproj",
       "packagesPath": "C:\\Users\\ifernandez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ifernandez\\source\\repos\\WebapiStarWars\\obj\\",
+      "outputPath": "C:\\Users\\ifernandez\\source\\repos\\WebapiStarWars2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ifernandez\\AppData\\Roaming\\NuGet\\NuGet.Config",
