@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ifernandez\\source\\repos\\WebapiMaestros\\WebapiMaestros.csproj": {}
+    "C:\\Users\\ifernandez\\source\\repos\\WebapiStarWars\\WebapiMaestros.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ifernandez\\source\\repos\\WebapiMaestros\\WebapiMaestros.csproj": {
+    "C:\\Users\\ifernandez\\source\\repos\\WebapiStarWars\\WebapiMaestros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ifernandez\\source\\repos\\WebapiMaestros\\WebapiMaestros.csproj",
+        "projectUniqueName": "C:\\Users\\ifernandez\\source\\repos\\WebapiStarWars\\WebapiMaestros.csproj",
         "projectName": "WebapiMaestros",
-        "projectPath": "C:\\Users\\ifernandez\\source\\repos\\WebapiMaestros\\WebapiMaestros.csproj",
+        "projectPath": "C:\\Users\\ifernandez\\source\\repos\\WebapiStarWars\\WebapiMaestros.csproj",
         "packagesPath": "C:\\Users\\ifernandez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ifernandez\\source\\repos\\WebapiMaestros\\obj\\",
+        "outputPath": "C:\\Users\\ifernandez\\source\\repos\\WebapiStarWars\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ifernandez\\AppData\\Roaming\\NuGet\\NuGet.Config",

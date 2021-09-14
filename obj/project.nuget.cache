@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5nvucTPG2Yy+j8qsX2p/D1za3WAZNZg2oeaygE+YINyArElckzhDE+iqB0XmTuNowTEBFmpzulONr4HnO8ziag==",
+  "dgSpecHash": "mo9vgrThNkD0nL7+5J31Q/TC7a2fXH8JmeOEoY6lzcFej3SFczlMLbm519Fs59/o23dzcxOkcSLH2zw8Rc5KpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ifernandez\\source\\repos\\WebapiMaestros\\WebapiMaestros.csproj",
+  "projectFilePath": "C:\\Users\\ifernandez\\source\\repos\\WebapiStarWars\\WebapiMaestros.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ifernandez\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\ifernandez\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
