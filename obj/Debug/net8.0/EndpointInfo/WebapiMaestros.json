@@ -1,0 +1,92 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "API Rest Maestros",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/armies": {
+      "get": {
+        "tags": [
+          "Maestros"
+        ],
+        "summary": "Consulta todas las naves y sus armas de todos los ejercitos de la BBDD",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ships": {
+      "get": {
+        "tags": [
+          "Maestros"
+        ],
+        "summary": "Obtienen todas las naves",
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/shipsbyname": {
+      "get": {
+        "tags": [
+          "Maestros"
+        ],
+        "summary": "Obtienen todas las naves que contien en el nombre el texto enviado",
+        "parameters": [
+          {
+            "name": "shipName",
+            "in": "query",
+            "description": "Nombre de la nave",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/shipbyid": {
+      "get": {
+        "tags": [
+          "Maestros"
+        ],
+        "summary": "Obtiene la nave del idShip enviado",
+        "parameters": [
+          {
+            "name": "idShip",
+            "in": "query",
+            "description": "Nombre de la nave",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "securitySchemes": {
+      "Bearer": {
+        "type": "apiKey",
+        "description": "JWT Authorization header using the Bearer scheme. \r\n                      Enter 'Bearer' [space] and then your token in the text input below.\r\n                      Example: 'Bearer 12345abcdef'",
+        "name": "Authorization",
+        "in": "header"
+      }
+    }
+  }
+}

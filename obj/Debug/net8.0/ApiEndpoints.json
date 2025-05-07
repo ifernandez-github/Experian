@@ -1,0 +1,54 @@
+[
+  {
+    "ContainingType": "WebapiMaestros.Controllers.MaestrosController",
+    "Method": "GetArmies",
+    "RelativePath": "api/armies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebapiMaestros.Controllers.MaestrosController",
+    "Method": "GetShipsById",
+    "RelativePath": "api/shipbyid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idShip",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebapiMaestros.Controllers.MaestrosController",
+    "Method": "GetShips",
+    "RelativePath": "api/ships",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebapiMaestros.Controllers.MaestrosController",
+    "Method": "GetShipsByName",
+    "RelativePath": "api/shipsbyname",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shipName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
